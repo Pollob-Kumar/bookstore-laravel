@@ -10,7 +10,7 @@ This system helps manage books, categories, and orders efficiently. Ideal for sm
 - 📖 Book Management (CRUD)
 - 🟒️ Category Management
 - 🛒 Order Management
-- 👥 User Authentication (Login/Register)
+  <!-- 👥 User Authentication (Login/Register) -->
 - 📊 Dashboard with statistics (optional)
 - 📁 MVC Architecture (Laravel Standard)
 
