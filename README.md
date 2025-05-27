@@ -5,6 +5,19 @@ This system helps manage books, categories, and orders efficiently. Ideal for sm
 
 ---
 
+## 📺 Demo Video
+
+<div align="center">
+  
+[![Book Store Laravel Demo](https://github.com/Pollob-Kumar/bookstore-laravel/blob/main/resources/Screenshot%202025-05-27%20180717.png)](https://youtu.be/wQJ4ho09tsg?si=q2qjmVv90AMMJtY6)
+
+</div>
+
+> _Click the image above to watch the demo on YouTube!_
+
+
+---
+
 ## 🔧 Features
 
 - 📖 Book Management (CRUD)
